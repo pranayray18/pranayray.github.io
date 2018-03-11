@@ -1,39 +1,34 @@
-html{
-    border: 1px solid white;
-    margin: 150px 0px 0px 0px;
+
+	h1{
+		font-family: 'Rammetto One', cursive;
+		text-align: left;
+	}
+	body{
+		font-family: 'Roboto Mono', monospace;
+	}
+	a:link {
+    text-decoration: none;
     
-
-  }
-
-  h1{
-    font-family: 'Rammetto One', cursive;
-    text-align: center;
-  }
-
-  h3,p{
-    font-family: 'Roboto Mono', monospace;
-    text-align: center;
-  }
-
-.link {
-  height: 50px;
-  text-align: center;
 }
 
-.link a{
-  margin: 10px;
-  color: black;
+a:visited {
+    text-decoration: none;
 }
 
-hr { 
-    display: block;
-    
-    margin-left: 25%;
-    margin-right: 25%;
-    border-style: groove;
-    border-width: 10px;
+a:hover {
+    text-decoration: underline;
 }
 
-.egg{
-  text-align: center;
+a:active {
+    text-decoration: underline;
 }
+
+p{
+	text-align: right;
+}
+
+ul li{
+	line-height: 1.6;
+}
+
+
