@@ -1,0 +1,41 @@
+html{
+		border: 1px solid white;
+    margin: 50px 250px 75px 250px;
+    
+
+	}
+	h1{
+		font-family: 'Rammetto One', cursive;
+		text-align: center;
+	}
+	body{
+		font-family: 'Roboto Mono', monospace;
+	}
+	a:link {
+    text-decoration: none;
+    
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+p{
+	text-align: right;
+}
+
+ul li{
+	line-height: 1.6;
+}
+
+.foot{
+	text-align: center;
+}
