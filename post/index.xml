@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on P R A N A Y</title>
-    <link>/post/</link>
+    <link>http://pranayray18.github.io/post/</link>
     <description>Recent content in Posts on P R A N A Y</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://pranayray18.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Setting Up</title>
-      <link>/post/setting-up/</link>
+      <link>http://pranayray18.github.io/post/setting-up/</link>
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/setting-up/</guid>
+      <guid>http://pranayray18.github.io/post/setting-up/</guid>
       <description>So finally it&amp;rsquo;s done ! The blog is up and running.
 This website is written in Sublime Text and compiled into HTML using Hugo - a static site generator in Go. For the design, it uses a minimal framework called CleanWhite.
 Lastly, Git is used to publish on Github, where all the code for this website is freely available.
@@ -25,10 +25,10 @@ Cheers!</description>
     
     <item>
       <title>Welcome to Zhaohuabing Blog</title>
-      <link>/2017/11/03/hello-world/</link>
+      <link>http://pranayray18.github.io/2017/11/03/hello-world/</link>
       <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/11/03/hello-world/</guid>
+      <guid>http://pranayray18.github.io/2017/11/03/hello-world/</guid>
       <description>  “Yeah It&amp;rsquo;s on. ”
  Hello World! </description>
     </item>
