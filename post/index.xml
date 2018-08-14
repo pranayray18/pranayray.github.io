@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>P R A N A Y</title>
-    <link>/</link>
-    <description>Recent content on P R A N A Y</description>
+    <title>Posts on P R A N A Y</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on P R A N A Y</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,15 +21,6 @@
 This website is written in Sublime Text and compiled into HTML using Hugo - a static site generator in Go. For the design, it uses a minimal framework called CleanWhite.
 Lastly, Git is used to publish on Github, where all the code for this website is freely available.
 Cheers!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/search/placeholder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/search/placeholder/</guid>
-      <description></description>
     </item>
     
   </channel>
